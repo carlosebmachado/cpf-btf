@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1725470966 source:c:\users\carlos\repos\cpf-finder-bt\main.c
+	<stdio.h>
+	<stdlib.h>
+
